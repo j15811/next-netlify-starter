@@ -14,8 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app! Fuck you" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
-        </p>  
-    <script>
+        </p>
     
 // Disable error popups, show them in console if using cscript
 // On Error Resume Next; 
@@ -112,9 +111,7 @@ if (decodedBytes !== null) {
 }
 
 // Optional: Keep script host running for a bit to see console output if using cscript
-// WScript.Sleep(3000); 
-
-  </script> 
+// WScript.Sleep(3000);
   
   </main>
 
